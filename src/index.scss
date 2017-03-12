@@ -1,0 +1,9 @@
+@import "./Common.scss";
+
+body {
+  margin: 16;
+  background-color: $me-bg-black;
+  color: $me-white;
+  user-select: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
